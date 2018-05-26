@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //Jayakrishnan 110117078
+=======
+//Shashvat 110117078
+>>>>>>> Branch2
 #include<stdio.h>
 main(){
 	//inputting the array size and values
